@@ -1,1 +1,1 @@
-# analytics-edge
+# The Analytics Edge Class
