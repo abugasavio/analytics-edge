@@ -52,3 +52,5 @@ table(USDA$HighSodium, USDA$HighFat)
 tapply(USDA$Iron, USDA$HighProtein, mean, na.rm = TRUE)
 
 tapply(USDA$VitaminC, USDA$HighCarbs, max, na.rm = TRUE)
+
+tapply(USDA$VitaminC, USDA$HighCarbs, summary, na.rm = TRUE)
