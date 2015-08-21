@@ -1,6 +1,6 @@
 # Introduction to R in MITx: 15.071x The Analytics Edge Class
 # Author: Savio Abuga
-setwd("/Users/savioabuga/Documents/TheAnalyticEdge/")
+setwd("/Users/savioabuga/Documents/AnalyticEdge/")
 
 
 # Working with Vectors
